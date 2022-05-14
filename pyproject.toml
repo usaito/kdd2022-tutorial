@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "kdd2022-tutorial"
+version = "0.1.0"
+description = ""
+authors = ["usaito <ys552@cornell.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.9,<3.10"
+obp = "^0.5.4"
+numpy = "^1.22.3"
+matplotlib = "^3.5.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
