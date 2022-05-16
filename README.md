@@ -12,7 +12,7 @@ Materials for **"Counterfactual Evaluation and Learning for Interactive Systems:
 
 ### Contents
 
-- [examples](./examples): brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
+- [examples](./examples): some brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
 - [simulations](./simulations): simulation codes comparing a wide variety of existing OPE estimators on synthetic data
 - [real-world](./real-world): a brief demo of OPE/OPL on real bandit dataset (need [Open Bandit Dataset](https://research.zozo.com/data.html))
 
