@@ -12,11 +12,11 @@ Materials for **"Counterfactual Evaluation and Learning for Interactive Systems:
 
 ### Contents
 
-- [examples](./examples): some brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
+- [examples](./examples): brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
 - [simulations](./simulations): simulation codes comparing a wide variety of existing OPE estimators on synthetic data
 - [real-world](./real-world): a brief demo of OPE/OPL on real bandit dataset (need [Open Bandit Dataset](https://research.zozo.com/data.html))
 
-The Google Colab version of implementations (examples) are available [here](https://drive.google.com/drive/folders/1P3IPoFhVQ0n19EU5PCF_ZfkxRdpTJnJa?usp=sharing).
+<!-- The Google Colab version of implementations (examples) are available [here](https://drive.google.com/drive/folders/1P3IPoFhVQ0n19EU5PCF_ZfkxRdpTJnJa?usp=sharing). -->
 
 ### Requirements and Setup
 
@@ -24,8 +24,8 @@ The Python environment is built using [poetry](https://github.com/python-poetry/
 
 ```
 # clone the obp repository
-git clone git@github.com:usaito/recsys2021-tutorial.git
-cd benchmark/ope
+git clone https://github.com/usaito/kdd2022-tutorial.git
+cd kdd2022-tutorial
 
 # build the environment with poetry
 poetry install
