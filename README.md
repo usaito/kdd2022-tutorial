@@ -5,7 +5,7 @@ Materials for **"Counterfactual Evaluation and Learning for Interactive Systems:
 - Presenters: [Yuta Saito](https://usait0.com/en/) (Cornell University, USA) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) (Cornell University, USA).
 
 - Tutorial website: https://counterfactual-ml.github.io/kdd2022-tutorial/
-- Tutorial proposal:
+- Tutorial proposal: https://dl.acm.org/doi/10.1145/3534678.3542601
 - Reference Package (Open Bandit Pipeline): https://github.com/st-tech/zr-obp
 - Survey of related papers: https://github.com/hanjuku-kaso/awesome-offline-rl
 
@@ -15,8 +15,6 @@ Materials for **"Counterfactual Evaluation and Learning for Interactive Systems:
 - [examples](./examples): brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
 - [simulations](./simulations): simulation codes comparing a wide variety of existing OPE estimators on synthetic data
 - [real-world](./real-world): a brief demo of OPE/OPL on real bandit dataset (need [Open Bandit Dataset](https://research.zozo.com/data.html))
-
-<!-- The Google Colab version of implementations (examples) are available [here](https://drive.google.com/drive/folders/1P3IPoFhVQ0n19EU5PCF_ZfkxRdpTJnJa?usp=sharing). -->
 
 ### Requirements and Setup
 
